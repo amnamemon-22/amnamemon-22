@@ -1,23 +1,28 @@
 # Amna Memon
 
-Computer Systems Engineering Student at Mehran University of Engineering & Technology (MUET).
+CS Engineering Student at Mehran University of Engineering & Technology.
 
-Interested in the intersection of artificial intelligence, software engineering, and modern web technologies. I enjoy turning ideas into practical solutions and using technology to solve real-world problems.
+I'm at the stage where concepts are turning into projects and curiosity is turning into capability. This GitHub is where that journey gets documented, starting now.
 
-This GitHub serves as a record of my academic work, personal projects, and ongoing exploration of AI-powered applications and software development.
+## What I work with
 
-## Technologies
+Python
+JavaScript
+HTML
+CSS
+MySQL
 
-Python · JavaScript · HTML · CSS · MySQL
+## What I'm into
 
-## Areas of Interest
+Artificial Intelligence
+Software Engineering
+Web Development
+Open Source
 
-Artificial Intelligence · Software Engineering · Web Development · Open Source
+## Right now
 
-## Current Focus
+Learning the foundations of AI and web development — and building as I go.
 
-Building projects that combine AI concepts with modern web development while strengthening my software engineering foundations.
+## Find me
 
-## Connect
-
-linkedin.com/in/amna-memon-372a86275
+[linkedin.com/in/amna-memon-372a86275](https://www.linkedin.com/in/amna-memon-372a86275)
