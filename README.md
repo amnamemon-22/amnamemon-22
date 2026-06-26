@@ -6,18 +6,18 @@ I'm at the stage where concepts are turning into projects and curiosity is turni
 
 ## What I work with
 
-- Python
-- JavaScript
-- HTML
-- CSS
-- MySQL
+Python  
+JavaScript  
+HTML  
+CSS  
+MySQL  
 
 ## What I'm into
 
-- Artificial Intelligence
-- Software Engineering
-- Web Development
-- Open Source
+Artificial Intelligence  
+Software Engineering  
+Web Development  
+Open Source
 
 ## Right now
 
